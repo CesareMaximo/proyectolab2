@@ -1,0 +1,987 @@
+# depslib dependency file v1.0
+1620075372 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\logistica\cliente.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+
+1603506420 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\logistica\detalleventa.cpp
+
+1623436660 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\logistica\fecha.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<ctime>
+	<locale.h>
+	"funciones.h"
+	"fecha.h"
+
+1623436758 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\logistica\funciones.h
+	"herramientas.h"
+	"gerente.h"
+
+1623377120 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\logistica\fecha.h
+
+1623434268 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\logistica\gerente.cpp
+	"herramientas.h"
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"herramientas.h"
+	"funciones.h"
+	"gerente.h"
+
+1623417091 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\logistica\herramientas.h
+	"fecha.h"
+	<cstring>
+
+1623434752 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\logistica\gerente.h
+	"persona.h"
+
+1621321160 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\logistica\persona.h
+	"fecha.h"
+	<cstring>
+
+1623435304 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\logistica\funciones.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<ctime>
+	<locale.h>
+	"funciones.h"
+	"herramientas.h"
+	"gerente.h"
+
+1623378827 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\logistica\herramientas.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"funciones.h"
+	"herramientas.h"
+
+1603506420 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\logistica\marca.cpp
+
+1603506420 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\logistica\persona.cpp
+
+1620075372 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\logistica\vendedor.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+
+1623436774 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\logistica\main.cpp
+	<iostream>
+	"fecha.h"
+	"funciones.h"
+	"herramientas.h"
+	"gerente.h"
+
+1621319520 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\logistica\venta.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"funciones.h"
+	"gerente.h"
+	"herramientas.h"
+	"venta.h"
+
+1621321556 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\logistica\venta.h
+	"fecha.h"
+
+1623969950 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\cliente.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"cliente.h"
+
+1624120082 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\detalleventa.cpp
+	<iostream>
+	"stdio.h"
+	"detalleventa.h"
+
+1623956134 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\fecha.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<ctime>
+	<locale.h>
+	"funciones.h"
+	"fecha.h"
+
+1624280397 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\funciones.h
+	"herramientas.h"
+	"gerente.h"
+	"vendedor.h"
+
+1624250105 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\herramientas.h
+	"fecha.h"
+	<cstring>
+
+1623448464 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\fecha.h
+
+1624248494 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\gerente.h
+	"persona.h"
+
+1624281169 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\persona.h
+	"fecha.h"
+	<cstring>
+
+1624296153 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\gerente.cpp
+	"herramientas.h"
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"herramientas.h"
+	"funciones.h"
+	"gerente.h"
+	"persona.h"
+
+1624165807 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\herramientas.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"funciones.h"
+	"herramientas.h"
+
+1624285335 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\main.cpp
+	<iostream>
+	<stdio.h>
+	"fecha.h"
+	"funciones.h"
+	"herramientas.h"
+	"gerente.h"
+	"cliente.h"
+	"venta.h"
+	"detalleventa.h"
+
+1603506420 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\marca.cpp
+
+1624251637 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\persona.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"cliente.h"
+	"persona.h"
+	"funciones.h"
+
+1624296146 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\vendedor.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"vendedor.h"
+	"fecha.h"
+	"funciones.h"
+
+1624250228 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\venta.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"funciones.h"
+	"gerente.h"
+	"herramientas.h"
+	"venta.h"
+	"fecha.h"
+
+1624120869 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\venta.h
+	"fecha.h"
+
+1624307401 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\funciones.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<ctime>
+	<locale.h>
+	"funciones.h"
+	"herramientas.h"
+	"gerente.h"
+	"cliente.h"
+	"venta.h"
+	"detalleventa.h"
+
+1623969861 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\cliente.h
+	"persona.h"
+	"fecha.h"
+
+1624248523 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\vendedor.h
+	"persona.h"
+	"fecha.h"
+
+1624120049 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logistica\detalleventa.h
+
+1624390853 source:c:\users\maxi\desktop\logistica\cliente.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"cliente.h"
+
+1623969861 c:\users\maxi\desktop\logistica\cliente.h
+	"persona.h"
+	"fecha.h"
+
+1624281169 c:\users\maxi\desktop\logistica\persona.h
+	"fecha.h"
+	<cstring>
+
+1623448464 c:\users\maxi\desktop\logistica\fecha.h
+
+1624120082 source:c:\users\maxi\desktop\logistica\detalleventa.cpp
+	<iostream>
+	"stdio.h"
+	"detalleventa.h"
+
+1624120049 c:\users\maxi\desktop\logistica\detalleventa.h
+
+1623956134 source:c:\users\maxi\desktop\logistica\fecha.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<ctime>
+	<locale.h>
+	"funciones.h"
+	"fecha.h"
+
+1624547303 c:\users\maxi\desktop\logistica\funciones.h
+	"herramientas.h"
+	"gerente.h"
+	"vendedor.h"
+	"cliente.h"
+	"detalleventa.h"
+
+1624250105 c:\users\maxi\desktop\logistica\herramientas.h
+	"fecha.h"
+	<cstring>
+
+1624248494 c:\users\maxi\desktop\logistica\gerente.h
+	"persona.h"
+
+1624379082 c:\users\maxi\desktop\logistica\vendedor.h
+	"persona.h"
+	"fecha.h"
+
+1624547721 source:c:\users\maxi\desktop\logistica\funciones.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<ctime>
+	<locale.h>
+	"funciones.h"
+	"herramientas.h"
+	"gerente.h"
+	"cliente.h"
+	"venta.h"
+	"detalleventa.h"
+
+1624473008 c:\users\maxi\desktop\logistica\venta.h
+	"fecha.h"
+
+1624296153 source:c:\users\maxi\desktop\logistica\gerente.cpp
+	"herramientas.h"
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"herramientas.h"
+	"funciones.h"
+	"gerente.h"
+	"persona.h"
+
+1624165807 source:c:\users\maxi\desktop\logistica\herramientas.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"funciones.h"
+	"herramientas.h"
+
+1624285335 source:c:\users\maxi\desktop\logistica\main.cpp
+	<iostream>
+	<stdio.h>
+	"fecha.h"
+	"funciones.h"
+	"herramientas.h"
+	"gerente.h"
+	"cliente.h"
+	"venta.h"
+	"detalleventa.h"
+
+1603506420 source:c:\users\maxi\desktop\logistica\marca.cpp
+
+1624251637 source:c:\users\maxi\desktop\logistica\persona.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"cliente.h"
+	"persona.h"
+	"funciones.h"
+
+1624381249 source:c:\users\maxi\desktop\logistica\vendedor.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"vendedor.h"
+	"fecha.h"
+	"funciones.h"
+
+1624473008 source:c:\users\maxi\desktop\logistica\venta.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"funciones.h"
+	"gerente.h"
+	"herramientas.h"
+	"venta.h"
+	"fecha.h"
+
+1624390853 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav8\cliente.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"cliente.h"
+
+1623969861 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav8\cliente.h
+	"persona.h"
+	"fecha.h"
+
+1624281169 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav8\persona.h
+	"fecha.h"
+	<cstring>
+
+1623448464 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav8\fecha.h
+
+1624120082 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav8\detalleventa.cpp
+	<iostream>
+	"stdio.h"
+	"detalleventa.h"
+
+1624120049 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav8\detalleventa.h
+
+1623956134 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav8\fecha.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<ctime>
+	<locale.h>
+	"funciones.h"
+	"fecha.h"
+
+1625003424 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav8\funciones.h
+	"herramientas.h"
+	"gerente.h"
+	"vendedor.h"
+	"cliente.h"
+	"detalleventa.h"
+
+1624250105 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav8\herramientas.h
+	"fecha.h"
+	<cstring>
+
+1624248494 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav8\gerente.h
+	"persona.h"
+
+1624379082 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav8\vendedor.h
+	"persona.h"
+	"fecha.h"
+
+1624296153 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav8\gerente.cpp
+	"herramientas.h"
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"herramientas.h"
+	"funciones.h"
+	"gerente.h"
+	"persona.h"
+
+1624165807 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav8\herramientas.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"funciones.h"
+	"herramientas.h"
+
+1625006612 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav8\main.cpp
+	<iostream>
+	<stdio.h>
+	"fecha.h"
+	"funciones.h"
+	"herramientas.h"
+	"gerente.h"
+	"cliente.h"
+	"venta.h"
+	"detalleventa.h"
+
+1624592777 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav8\venta.h
+	"fecha.h"
+
+1603506420 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav8\marca.cpp
+
+1624251637 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav8\persona.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"cliente.h"
+	"persona.h"
+	"funciones.h"
+
+1624381249 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav8\vendedor.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"vendedor.h"
+	"fecha.h"
+	"funciones.h"
+
+1624592855 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav8\venta.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"funciones.h"
+	"gerente.h"
+	"herramientas.h"
+	"venta.h"
+	"fecha.h"
+
+1625004328 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav8\funciones.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<ctime>
+	<locale.h>
+	"funciones.h"
+	"herramientas.h"
+	"gerente.h"
+	"cliente.h"
+	"venta.h"
+	"detalleventa.h"
+
+1624390853 source:c:\users\maxi\desktop\utn\logisticav9\cliente.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"cliente.h"
+
+1623969861 c:\users\maxi\desktop\utn\logisticav9\cliente.h
+	"persona.h"
+	"fecha.h"
+
+1624281169 c:\users\maxi\desktop\utn\logisticav9\persona.h
+	"fecha.h"
+	<cstring>
+
+1623448464 c:\users\maxi\desktop\utn\logisticav9\fecha.h
+
+1624120082 source:c:\users\maxi\desktop\utn\logisticav9\detalleventa.cpp
+	<iostream>
+	"stdio.h"
+	"detalleventa.h"
+
+1624120049 c:\users\maxi\desktop\utn\logisticav9\detalleventa.h
+
+1623956134 source:c:\users\maxi\desktop\utn\logisticav9\fecha.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<ctime>
+	<locale.h>
+	"funciones.h"
+	"fecha.h"
+
+1625067837 c:\users\maxi\desktop\utn\logisticav9\funciones.h
+	"herramientas.h"
+	"gerente.h"
+	"vendedor.h"
+	"cliente.h"
+	"detalleventa.h"
+	"venta.h"
+
+1624250105 c:\users\maxi\desktop\utn\logisticav9\herramientas.h
+	"fecha.h"
+	<cstring>
+
+1624248494 c:\users\maxi\desktop\utn\logisticav9\gerente.h
+	"persona.h"
+
+1625065124 c:\users\maxi\desktop\utn\logisticav9\vendedor.h
+	"persona.h"
+	"fecha.h"
+
+1624296153 source:c:\users\maxi\desktop\utn\logisticav9\gerente.cpp
+	"herramientas.h"
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"herramientas.h"
+	"funciones.h"
+	"gerente.h"
+	"persona.h"
+
+1624165807 source:c:\users\maxi\desktop\utn\logisticav9\herramientas.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"funciones.h"
+	"herramientas.h"
+
+1625064504 source:c:\users\maxi\desktop\utn\logisticav9\main.cpp
+	<iostream>
+	<stdio.h>
+	"fecha.h"
+	"funciones.h"
+	"herramientas.h"
+	"gerente.h"
+	"cliente.h"
+	"venta.h"
+	"detalleventa.h"
+	"Descuento.h"
+
+1624592777 c:\users\maxi\desktop\utn\logisticav9\venta.h
+	"fecha.h"
+
+1603506420 source:c:\users\maxi\desktop\utn\logisticav9\marca.cpp
+
+1624251637 source:c:\users\maxi\desktop\utn\logisticav9\persona.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"cliente.h"
+	"persona.h"
+	"funciones.h"
+
+1625065571 source:c:\users\maxi\desktop\utn\logisticav9\vendedor.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"vendedor.h"
+	"fecha.h"
+	"funciones.h"
+
+1624592855 source:c:\users\maxi\desktop\utn\logisticav9\venta.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"funciones.h"
+	"gerente.h"
+	"herramientas.h"
+	"venta.h"
+	"fecha.h"
+
+1625015463 source:c:\users\maxi\desktop\utn\logisticav9\descuento.cpp
+	"Descuento.h"
+	<iostream>
+	"stdio.h"
+
+1625013683 c:\users\maxi\desktop\utn\logisticav9\descuento.h
+
+1625067885 source:c:\users\maxi\desktop\utn\logisticav9\funciones.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<ctime>
+	<locale.h>
+	"Descuento.h"
+	"funciones.h"
+	"herramientas.h"
+	"gerente.h"
+	"cliente.h"
+	"venta.h"
+	"detalleventa.h"
+
+1625098560 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav10\cliente.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"cliente.h"
+
+1625098876 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav10\cliente.h
+	"persona.h"
+	"fecha.h"
+
+1624281169 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav10\persona.h
+	"fecha.h"
+	<cstring>
+
+1623448464 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav10\fecha.h
+
+1625098544 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav10\descuento.cpp
+	"Descuento.h"
+	<iostream>
+	"stdio.h"
+
+1625098898 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav10\descuento.h
+
+1625098590 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav10\detalleventa.cpp
+	<iostream>
+	"stdio.h"
+	"detalleventa.h"
+
+1625098907 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav10\detalleventa.h
+
+1623956134 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav10\fecha.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<ctime>
+	<locale.h>
+	"funciones.h"
+	"fecha.h"
+
+1625110306 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav10\funciones.h
+	"herramientas.h"
+	"gerente.h"
+	"vendedor.h"
+	"cliente.h"
+	"detalleventa.h"
+	"venta.h"
+
+1625098956 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav10\herramientas.h
+	"fecha.h"
+	<cstring>
+
+1625098929 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav10\gerente.h
+	"persona.h"
+
+1625098975 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav10\vendedor.h
+	"persona.h"
+	"fecha.h"
+
+1625098981 c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav10\venta.h
+	"fecha.h"
+
+1625098632 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav10\gerente.cpp
+	"herramientas.h"
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"herramientas.h"
+	"funciones.h"
+	"gerente.h"
+	"persona.h"
+
+1625098658 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav10\herramientas.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"funciones.h"
+	"herramientas.h"
+
+1625109821 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav10\main.cpp
+	<iostream>
+	<stdio.h>
+	"fecha.h"
+	"funciones.h"
+	"herramientas.h"
+	"gerente.h"
+	"cliente.h"
+	"venta.h"
+	"detalleventa.h"
+	"Descuento.h"
+
+1603506420 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav10\marca.cpp
+
+1624251637 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav10\persona.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"cliente.h"
+	"persona.h"
+	"funciones.h"
+
+1625098721 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav10\vendedor.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"vendedor.h"
+	"fecha.h"
+	"funciones.h"
+
+1625098755 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav10\venta.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"funciones.h"
+	"gerente.h"
+	"herramientas.h"
+	"venta.h"
+	"fecha.h"
+
+1625107108 source:c:\users\imarobotbitch\desktop\proyecto de laboratorio\logisticav10\funciones.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<ctime>
+	<locale.h>
+	<fstream>
+	"Descuento.h"
+	"funciones.h"
+	"herramientas.h"
+	"gerente.h"
+	"cliente.h"
+	"venta.h"
+	"detalleventa.h"
+
+1625098560 source:c:\users\maxi\desktop\logisticav10\cliente.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"cliente.h"
+
+1625098876 c:\users\maxi\desktop\logisticav10\cliente.h
+	"persona.h"
+	"fecha.h"
+
+1624281169 c:\users\maxi\desktop\logisticav10\persona.h
+	"fecha.h"
+	<cstring>
+
+1623448464 c:\users\maxi\desktop\logisticav10\fecha.h
+
+1625098544 source:c:\users\maxi\desktop\logisticav10\descuento.cpp
+	"Descuento.h"
+	<iostream>
+	"stdio.h"
+
+1625098898 c:\users\maxi\desktop\logisticav10\descuento.h
+
+1625098590 source:c:\users\maxi\desktop\logisticav10\detalleventa.cpp
+	<iostream>
+	"stdio.h"
+	"detalleventa.h"
+
+1625098907 c:\users\maxi\desktop\logisticav10\detalleventa.h
+
+1623956134 source:c:\users\maxi\desktop\logisticav10\fecha.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<ctime>
+	<locale.h>
+	"funciones.h"
+	"fecha.h"
+
+1625110306 c:\users\maxi\desktop\logisticav10\funciones.h
+	"herramientas.h"
+	"gerente.h"
+	"vendedor.h"
+	"cliente.h"
+	"detalleventa.h"
+	"venta.h"
+
+1625098956 c:\users\maxi\desktop\logisticav10\herramientas.h
+	"fecha.h"
+	<cstring>
+
+1625098929 c:\users\maxi\desktop\logisticav10\gerente.h
+	"persona.h"
+
+1625098975 c:\users\maxi\desktop\logisticav10\vendedor.h
+	"persona.h"
+	"fecha.h"
+
+1625098981 c:\users\maxi\desktop\logisticav10\venta.h
+	"fecha.h"
+
+1639160754 source:c:\users\maxi\desktop\logisticav10\gerente.cpp
+	"herramientas.h"
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"herramientas.h"
+	"funciones.h"
+	"gerente.h"
+	"persona.h"
+
+1639504052 source:c:\users\maxi\desktop\logisticav10\herramientas.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"funciones.h"
+	"herramientas.h"
+	<string.h>
+	<sstream>
+
+1639415030 source:c:\users\maxi\desktop\logisticav10\persona.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"cliente.h"
+	"persona.h"
+	"funciones.h"
+
+1639414636 source:c:\users\maxi\desktop\logisticav10\vendedor.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"vendedor.h"
+	"fecha.h"
+	"funciones.h"
+
+1625098755 source:c:\users\maxi\desktop\logisticav10\venta.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"funciones.h"
+	"gerente.h"
+	"herramientas.h"
+	"venta.h"
+	"fecha.h"
+
+1625111199 source:c:\users\maxi\desktop\logisticav10\main.cpp
+	<iostream>
+	<stdio.h>
+	"fecha.h"
+	"funciones.h"
+	"herramientas.h"
+	"gerente.h"
+	"cliente.h"
+	"venta.h"
+	"detalleventa.h"
+	"Descuento.h"
+
+1639504052 source:c:\users\maxi\desktop\logisticav10\funciones.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<ctime>
+	<locale.h>
+	<fstream>
+	"Descuento.h"
+	"funciones.h"
+	"herramientas.h"
+	"gerente.h"
+	"cliente.h"
+	"venta.h"
+	"detalleventa.h"
+

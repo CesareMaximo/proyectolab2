@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Logistica" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Logistica" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+					<Add directory="../Logisticav8" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Logistica" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+					<Add directory="../Logisticav8" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Descuento.cpp" />
+		<Unit filename="Descuento.h" />
+		<Unit filename="Persona.cpp" />
+		<Unit filename="cliente.cpp" />
+		<Unit filename="cliente.h" />
+		<Unit filename="detalleventa.cpp" />
+		<Unit filename="detalleventa.h" />
+		<Unit filename="fecha.cpp" />
+		<Unit filename="fecha.h" />
+		<Unit filename="funciones.cpp" />
+		<Unit filename="funciones.h" />
+		<Unit filename="gerente.cpp" />
+		<Unit filename="gerente.h" />
+		<Unit filename="herramientas.cpp" />
+		<Unit filename="herramientas.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="persona.h" />
+		<Unit filename="vendedor.cpp" />
+		<Unit filename="vendedor.h" />
+		<Unit filename="venta.cpp" />
+		<Unit filename="venta.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
